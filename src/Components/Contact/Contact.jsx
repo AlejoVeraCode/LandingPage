@@ -15,7 +15,7 @@ function Contact() {
   if (submitted) {
     return (
       <div className="Container">
-        <h1>Gracias por contactarnos</h1>
+        <h1>Gracias por tenerme en cuenta!</h1>
       </div>
     );
   }
