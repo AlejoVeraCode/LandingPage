@@ -14,7 +14,7 @@ const About = () => {
                      </div>
                     <p className='AboutTitleP'> Soy Alejo Vera, Desarrollador de Software Junior
 
-Tengo experiencia en el campo del desarrollo de software. Mi conjunto de habilidades incluye HTML, CSS, JavaScript y React. A continuación, destacaré mis capacidades y enfoque profesional.
+Busco mi primera experiencia en el campo del desarrollo de software. Mi conjunto de habilidades incluye HTML, CSS, JavaScript y React. A continuación, destacaré mis capacidades y enfoque profesional.
 
 Habilidades Clave:
 
