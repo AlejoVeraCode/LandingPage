@@ -14,25 +14,24 @@ const About = () => {
                      </div>
                     <p className='AboutTitleP'> Soy Alejo Vera, Desarrollador de Software Junior
 
-Busco mi primera experiencia en el campo del desarrollo de software. Mi conjunto de habilidades incluye HTML, CSS, JavaScript y React. A continuación, destacaré mis capacidades y enfoque profesional.
+Busco mi primera experiencia en el campo del desarrollo de software. Mi conjunto de habilidades incluye HTML, CSS, JavaScript y React. A continuación, destacaré mis capacidades y enfoque profesional.<br></br>
 
-Habilidades Clave:
+Habilidades Clave:<br></br>
 
-HTML y CSS: Creo sitios web funcionales y estéticos utilizando HTML y CSS para brindar una experiencia de usuario agradable.
+HTML y CSS: Creo sitios web funcionales y estéticos utilizando HTML y CSS para brindar una experiencia de usuario agradable.<br></br>
+JavaScript: Tengo experiencia en el desarrollo de interacciones web utilizando JavaScript para crear funcionalidades dinámicas.<br></br>
 
-JavaScript: Tengo experiencia en el desarrollo de interacciones web utilizando JavaScript para crear funcionalidades dinámicas.
+React: Trabajo con React para construir aplicaciones web modernas y eficientes, centrándome en la creación de componentes reutilizables.<br></br>
 
-React: Trabajo con React para construir aplicaciones web modernas y eficientes, centrándome en la creación de componentes reutilizables.
+Tecnico Electromecánico: Además de la programación, tengo experiencia en mantenimiento electromecánico, lo que me brinda una perspectiva técnica y resolutiva en mi trabajo.<br></br>
 
-Tecnico Electromecánico: Además de la programación, tengo experiencia en mantenimiento electromecánico, lo que me brinda una perspectiva técnica y resolutiva en mi trabajo.
+Enfoque Profesional:<br></br>
 
-Enfoque Profesional:
+Mi enfoque es encontrar soluciones efectivas a los desafíos que se me presentan. Estoy comprometido con el aprendizaje constante y busco contribuir al éxito de los proyectos en los que participo.<br></br>
 
-Mi enfoque es encontrar soluciones efectivas a los desafíos que se me presentan. Estoy comprometido con el aprendizaje constante y busco contribuir al éxito de los proyectos en los que participo.
+Visión:<br></br>
 
-Visión:
-
-Como desarrollador junior, mi objetivo es seguir mejorando y creciendo en mi carrera. Aspiro a convertirme en un profesional altamente calificado en el desarrollo de software y aportar valor a proyectos futuros.
+Como desarrollador junior, mi objetivo es seguir mejorando y creciendo en mi carrera. Aspiro a convertirme en un profesional altamente calificado en el desarrollo de software y aportar valor a proyectos futuros.<br></br>
 
 ¡Hablemos!
 
