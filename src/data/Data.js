@@ -7,14 +7,7 @@
       image: "https://entrega-prooyecto-final-coder-house.vercel.app/static/media/logo.f6027c52e7559cabb2bb468a2b743d2f.svg",
       link: "https://entrega-prooyecto-final-coder-house.vercel.app/",
     },
-    { id:2,
-      title: "Simulador cambio de USD a ARS, simulador plazo fijo interes compuesto",
-      subtitle: "React CSS, API Alpha Vantage",
-      description:
-        "El objetivo de esta aplicación es brindar una herramienta fácil de usar para aquellos interesados en realizar simulaciones financieras para tener una idea aproximada de cuántos pesos argentinos obtendrías al cambiar una determinada cantidad de dólares estadounidenses y también para estimar los intereses generados por un plazo fijo durante un año. ",
-      image: "https://media.ambito.com/p/8621ea1411ae3ff8413c1aac54213b7d/adjuntos/239/imagenes/040/469/0040469593/dolar.jpg",
-      link: "https://simulador-dolares-plazo-fijo.vercel.app/",
-    },
+    
     { id:3,
       title: "Aplicacion de contactos con MongoDB y Express",
       subtitle: "NodeJS, MongoDB, Express",
